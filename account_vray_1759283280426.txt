@@ -1,0 +1,21 @@
+============ SUCCESS CREATED ACCOUNT ============
+
+SERVER INFO
+-------------------------------------------------
+Server	: VMESS WS IN 2
+Host	: vm.in.serverkit.pw
+Type	: vray
+
+
+ACCOUNT INFO
+-------------------------------------------------
+Expired At	: 2025-10-08 08:47:26
+URL TLS	: vmess://eyAidiI6ICIyIiwgInBzIjogImxpb25zc2hfYnllemhyYyIsICJhZGQiOiAiaWQuc2VydmVya2l0LnB3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjI4NzgzMDlhLWVjZjgtNDk3ZS1iYTkxLTBiOWMzYzJmNjVhNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaWQuc2VydmVya2l0LnB3IiwgInRscyI6ICJ0bHMiIH0K
+QR Code TLS	: https://api.qrserver.com/v1/create-qr-code/?size=256x256&data=vmess%3A%2F%2FeyAidiI6ICIyIiwgInBzIjogImxpb25zc2hfYnllemhyYyIsICJhZGQiOiAiaWQuc2VydmVya2l0LnB3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjI4NzgzMDlhLWVjZjgtNDk3ZS1iYTkxLTBiOWMzYzJmNjVhNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaWQuc2VydmVya2l0LnB3IiwgInRscyI6ICJ0bHMiIH0K
+URL Non-TLS	: vmess://eyAidiI6ICIyIiwgInBzIjogImxpb25zc2hfYnllemhyYyIsICJhZGQiOiAiaWQuc2VydmVya2l0LnB3IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMjg3ODMwOWEtZWNmOC00OTdlLWJhOTEtMGI5YzNjMmY2NWE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpZC5zZXJ2ZXJraXQucHciLCAidGxzIjogIm5vbmUiIH0K
+QR Code TLS	: https://api.qrserver.com/v1/create-qr-code/?size=256x256&data=vmess%3A%2F%2FeyAidiI6ICIyIiwgInBzIjogImxpb25zc2hfYnllemhyYyIsICJhZGQiOiAiaWQuc2VydmVya2l0LnB3IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMjg3ODMwOWEtZWNmOC00OTdlLWJhOTEtMGI5YzNjMmY2NWE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpZC5zZXJ2ZXJraXQucHciLCAidGxzIjogIm5vbmUiIH0K
+
+-------------------------------------------------
+THIS ACCOUNT CREATED BY:
+LionSSH
+https://lionssh.com
